@@ -1,0 +1,17 @@
+Code Review
+The code being reviewed is the code for task 5 written by Adrian, which determines whether a placement sequence is valid.
+A unique feature of this code, was that the problem was separated into the layers of the board; board, upboard and bottom board seen in line 121-123.
+An array is initiated, and given occupied values. 
+I feel that the code structure is the best feature, as it is easy to understand and read.
+
+The code written is well documented, with appropriate comments that explain different lines of code (as seen in line 150, 155 etc). 
+This aids to the understanding of the code written, as well as the debugging process.
+
+The class and method structures are appropriate, with suitable constructors.
+
+The methods and variables are properly named for ease of comprehension (position, shape and index in line 141, 146 and 156 describe exactly what they are). 
+This style of naming is kept consistent throughout the code.
+
+I have not spotted any errors in the code, or any means of improvement. The code passes all the junit tasks provided.
+
+
